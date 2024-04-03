@@ -11,8 +11,8 @@ public class App
 	{
 		
 		
-		System.out.println("data=" +data);
-		if(data.equals("ravindra"))
+		
+		if(data.equals(Constant.DATA_TYPE))
 		{
 			System.out.println("welocome");
 		}
